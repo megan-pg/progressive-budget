@@ -1,0 +1,20 @@
+{
+    "name": "Progressive Budget",
+    "short_name": "Progressive Budget",
+    "icons": [
+        {
+            "src": "/assets/images/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/images/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#00008B",
+    "background_color": "#00008B",
+    "start_url": "/",
+    "display": "standalone"
+}
